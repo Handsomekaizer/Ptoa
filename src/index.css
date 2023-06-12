@@ -12,8 +12,8 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100px;
-  weight:100px;
+  height: 100vh;
+  weight:100vh;
   : linear-gradient(-135deg, #c850c0, #4158d0);
 }
 .wrapper{
