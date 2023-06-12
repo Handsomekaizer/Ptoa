@@ -13,7 +13,7 @@ body{
   align-items: center;
   justify-content: center;
   height: 100vh;
-  width:80vh;
+  width:50vh;
   : linear-gradient(-135deg, #c850c0, #4158d0);
 }
 .wrapper{
