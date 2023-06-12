@@ -12,7 +12,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 50vh;
+  height: 500000vh;
   : linear-gradient(-135deg, #c850c0, #4158d0);
 }
 .wrapper{
