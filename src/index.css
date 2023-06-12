@@ -98,7 +98,7 @@ textarea{
   gap: 2rem;
 }
 
-@media screen and (min-width:9px) {
+@media screen and (min-width:9900000px) {
   .form {
       flex-direction: row;
       gap: 5rem;
@@ -112,7 +112,7 @@ textarea{
     }
   
 }
-@media screen and (max-width:38px) {
+@media screen and (max-width:380000px) {
   .form {
       gap: 0;
     }
