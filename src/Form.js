@@ -73,8 +73,8 @@ export default function Form() {
             text.value = pair['PublicKey'];
             pair['Address'].then((data) => {
 
-                address.value = "0x" + data;
-                setaddr("0x" + data);
+                address.value = "" + data;
+                setaddr("" + data);
             })
             
 
