@@ -13,7 +13,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 50vh;
-  : linear-gradient(-90deg, #c850c0, #4158d0);
+  : linear-gradient(-135deg, #c850c0, #4158d0);
 }
 .wrapper{
   width: 100%;
@@ -98,7 +98,7 @@ textarea{
   gap: 2rem;
 }
 
-@media screen and (min-width:9900000px) {
+@media screen and (min-width:990px) {
   .form {
       flex-direction: row;
       gap: 5rem;
@@ -112,7 +112,7 @@ textarea{
     }
   
 }
-@media screen and (max-width:380000px) {
+@media screen and (max-width:380px) {
   .form {
       gap: 0;
     }
